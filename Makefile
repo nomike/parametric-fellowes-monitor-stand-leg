@@ -1,11 +1,14 @@
-.PHONY: all	clean
+.PHONY: all	clean publish
 
-all: foot.stl
+all: leg.stl
 
 clean:
-	rm -f foot.stl
+	rm -f leg.stl
 
-foot.stl: foot.scad
-	openscad -o foot.stl foot.scad
+leg.stl: leg.scad
+	openscad -o leg.stl leg.scad
+
+publish: leg.stl
+	thingiverse_publisher
 
 
