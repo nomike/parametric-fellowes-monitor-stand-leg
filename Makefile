@@ -9,6 +9,6 @@ leg.stl: leg.scad
 	openscad -o leg.stl leg.scad
 
 publish: leg.stl
-	thingiverse_publisher
+	thingiverse-publisher
 
 
