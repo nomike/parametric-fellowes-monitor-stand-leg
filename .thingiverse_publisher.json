@@ -5,15 +5,18 @@
     "tags": [
       "desk"
     ],
-    "description": "# Fellowes Monitor Stand Legs\n\nThis parametrized OpenSCAD model generates legs for a [Fellowes Standard Monitor Riser Graphite](https://www.fellowes.com/uk/en/catalog/workspace/ergonomic-accessories/details/monitor-stands/UK-9169301). They can be of any height and can optionally be combined with the original leg pieces.\n\n# Usage\n\nSimply change `base_height` in `foot.scad` and run `make`.\n\nYou can also run openscad manually and override the `base_height` variable, without changing the source file:\n\n```sh\nopenscad -D base_height=50 -o foot.stl foot.scad\n```\n\n# Print\n\nCan be printed with most common materials with any common layer height. 15% infill should be enough, supports are not needed.",
+    "description": "# Fellowes Monitor Stand Legs\n\nThis parametrized OpenSCAD model generates legs for a [Fellowes Standard Monitor Riser Graphite](https://www.fellowes.com/uk/en/catalog/workspace/ergonomic-accessories/details/monitor-stands/UK-9169301). They can be of any height and can optionally be combined with the original leg pieces.\n\n## Usage\n\nSimply change `base_height` in `foot.scad` and run `make`.\n\nYou can also run openscad manually and override the `base_height` variable, without changing the source file:\n\n```sh\nopenscad -D base_height=50 -o foot.stl foot.scad\n```\n\n## Print\n\nCan be printed with most common materials with any common layer height. 15% infill should be enough, supports are not needed.\n\n## Thingiverse\n\nhttps://www.thingiverse.com/thing:6482795\n\n## GitHub\n\nhttps://github.com/nomike/Fellowes-Monitor-Stand-Legs\n",
     "instructions": "Print and enjoy",
     "is_wip": false,
     "license": "gpl3",
     "id": 6482795
   },
   "files": [
+    "output/leg-20.stl",
+    "output/leg-30.stl",
+    "output/leg-40.stl",
     "leg.scad",
-    "leg.stl"
+    "leg.json"
   ],
   "images": []
 }
