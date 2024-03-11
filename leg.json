@@ -1,0 +1,35 @@
+{
+    "parameterSets": {
+        "20": {
+            "$fn": "64",
+            "base_height": "20",
+            "base_inner_diameter": "18.6",
+            "base_outer_diameter": "20.5",
+            "min_base_height": "18",
+            "top_height": "18",
+            "top_inner_diameter": "16.3",
+            "top_outer_diameter": "18.4"
+        },
+        "30": {
+            "$fn": "64",
+            "base_height": "30",
+            "base_inner_diameter": "18.6",
+            "base_outer_diameter": "20.5",
+            "min_base_height": "18",
+            "top_height": "18",
+            "top_inner_diameter": "16.3",
+            "top_outer_diameter": "18.4"
+        },
+        "40": {
+            "$fn": "64",
+            "base_height": "40",
+            "base_inner_diameter": "18.6",
+            "base_outer_diameter": "20.5",
+            "min_base_height": "18",
+            "top_height": "18",
+            "top_inner_diameter": "16.3",
+            "top_outer_diameter": "18.4"
+        }
+    },
+    "fileFormatVersion": "1"
+}
