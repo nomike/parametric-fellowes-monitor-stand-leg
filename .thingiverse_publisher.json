@@ -18,5 +18,7 @@
     "leg.scad",
     "leg.json"
   ],
-  "images": []
+  "images": [
+    "photos/leg.png"
+  ]
 }
