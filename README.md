@@ -1,8 +1,6 @@
-# Fellowes Monitor Stand Legs
-
 This parametrized OpenSCAD model generates legs for a [Fellowes Standard Monitor Riser Graphite](https://www.fellowes.com/uk/en/catalog/workspace/ergonomic-accessories/details/monitor-stands/UK-9169301). They can be of any height and can optionally be combined with the original leg pieces.
 
-## Usage
+#### Usage
 
 Simply change `base_height` in `foot.scad` and run `make`.
 
@@ -12,14 +10,10 @@ You can also run openscad manually and override the `base_height` variable, with
 openscad -D base_height=50 -o foot.stl foot.scad
 ```
 
-## Print
-
-Can be printed with most common materials with any common layer height. 15% infill should be enough, supports are not needed.
-
-## Thingiverse
+#### Thingiverse
 
 <https://www.thingiverse.com/thing:6482795>
 
-## GitHub
+#### GitHub
 
 <https://github.com/nomike/Fellowes-Monitor-Stand-Legs>
