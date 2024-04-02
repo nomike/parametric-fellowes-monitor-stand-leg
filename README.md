@@ -18,8 +18,8 @@ Can be printed with most common materials with any common layer height. 15% infi
 
 ## Thingiverse
 
-https://www.thingiverse.com/thing:6482795
+<https://www.thingiverse.com/thing:6482795>
 
 ## GitHub
 
-https://github.com/nomike/Fellowes-Monitor-Stand-Legs
+<https://github.com/nomike/Fellowes-Monitor-Stand-Legs>
