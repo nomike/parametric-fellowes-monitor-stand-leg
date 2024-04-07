@@ -3,29 +3,36 @@
     "name": "Fellowes Monitor Stand Legs",
     "category": "Office",
     "tags": [
-      "desk"
+      "desk",
+      "fellowes",
+      "parametric",
+      "OpenSCAD"
     ],
     "is_wip": false,
-    "license": "bsd",
+    "license": "BSD License",
     "id": 6482795
   },
   "files": {
     "output/leg-20.stl": {
-      "id": 14277695,
+      "id": 14299102,
       "name": "leg-20.stl",
-      "url": "https://www.thingiverse.com/download:14277695"
+      "url": "https://www.thingiverse.com/download:14299102"
     },
     "output/leg-30.stl": {
-      "id": 14277697,
+      "id": 14299103,
       "name": "leg-30.stl",
-      "url": "https://www.thingiverse.com/download:14277697"
+      "url": "https://www.thingiverse.com/download:14299103"
     },
     "output/leg-40.stl": {
-      "id": 14277698,
+      "id": 14299104,
       "name": "leg-40.stl",
-      "url": "https://www.thingiverse.com/download:14277698"
+      "url": "https://www.thingiverse.com/download:14299104"
     },
-    "leg.scad": {},
+    "leg.scad": {
+      "id": 14299105,
+      "name": "leg.scad",
+      "url": "https://www.thingiverse.com/download:14299105"
+    },
     "leg.json": {}
   },
   "images": {
