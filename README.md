@@ -12,8 +12,8 @@ openscad -D base_height=50 -o foot.stl foot.scad
 
 #### Thingiverse
 
-<https://www.thingiverse.com/thing:6482795>
+<https://www.thingiverse.com/thing:6576962>
 
 #### GitHub
 
-<https://github.com/nomike/Fellowes-Monitor-Stand-Legs>
+<https://github.com/nomike/parametric-fellowes-monitor-stand-leg>
