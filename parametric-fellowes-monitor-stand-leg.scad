@@ -1,5 +1,5 @@
 /*
-Parametric Fellowes Monitor Stand Legs
+Parametric Fellowes Monitor Stand Leg
 
 Copyright 2024 nomike[AT]nomike[DOT]com
 
