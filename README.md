@@ -17,6 +17,10 @@ You can also run openscad manually and override the `base_height` variable, with
 openscad -D base_height=50 -o parametric-fellowes-monitor-stand-leg.stl parametric-fellowes-monitor-stand-leg.scad
 ```
 
+#### Printables
+
+<https://www.printables.com/model/861212-parametric-fellowes-monitor-stand-leg>
+
 #### Thingiverse
 
 <https://www.thingiverse.com/thing:6576962>
