@@ -9,12 +9,12 @@ Be sure to use a [recent version of OpenSCAD](https://openscad.org/downloads.htm
 
 #### Usage
 
-Simply change `base_height` in `foot.scad` and run `make`.
+Simply change `base_height` in `foparametric-fellowes-monitor-stand-legot.scad` and run `make`.
 
 You can also run openscad manually and override the `base_height` variable, without changing the source file:
 
 ```sh
-openscad -D base_height=50 -o foot.stl foot.scad
+openscad -D base_height=50 -o parametric-fellowes-monitor-stand-leg.stl parametric-fellowes-monitor-stand-leg.scad
 ```
 
 #### Thingiverse
